@@ -46,6 +46,6 @@ Lỗi hồi quy: lỗi ko fix ngay ở giai đoạn đấy mà phải đi lên, 
 
 C. WHERE
 Phù hợp với những dự án có đặc điểm:
-- có requirement ổn định
-- dự án nhỏ, đơn giản
-- nhân sự có kinh nghiệm, ít gây sai sót
+    - có requirement ổn định
+    - dự án nhỏ, đơn giản
+    - nhân sự có kinh nghiệm, ít gây sai sót
