@@ -56,6 +56,6 @@ Giống 1 vòng bên trên:
 
 B. Product
 Gồm tất cả những giai đoạn của outsource và có thêm:
-6.1 publish
-6.2 measure: thống kê số người tải, người mua,...
-6.3 learn
+    6.1 publish
+    6.2 measure: thống kê số người tải, người mua,...
+    6.3 learn
